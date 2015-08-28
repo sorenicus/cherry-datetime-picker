@@ -1,0 +1,11 @@
+{
+  "name": "cherry-datetime-picker",
+  "version": "1.0.0",
+  "description": "Pick dates and times like cherries",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

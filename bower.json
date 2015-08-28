@@ -1,0 +1,24 @@
+{
+  "name": "cherry-datetime-picker",
+  "version": "0.0.0",
+  "description": "Pick datetimes like cherries",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "datetime",
+    "bootstrap",
+    "picker"
+  ],
+  "authors": [
+    "David Sorensen"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
